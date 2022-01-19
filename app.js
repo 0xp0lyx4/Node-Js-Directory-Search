@@ -20,13 +20,3 @@ var wordlist = Myargs[2]
     }else{
         console.log('Usage : node directoryscanner.js https://example.com/ -w /home/user/desktop/wordlist.txt')
     }
-    
-
-
-
-
-
-
-
- 
-  
