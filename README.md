@@ -1,2 +1,2 @@
-# Node-Js-Directory-Search
-Node JS Directory Search CLI App
+# NodeJS-DirectorySearch
+Example Directory Search CLI App Written by Node JS
